@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1044239572465",
+    "firebase_url": "https://marketplace-2f3df.firebaseio.com",
+    "project_id": "marketplace-2f3df",
+    "storage_bucket": "marketplace-2f3df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044239572465:android:469a00ebc7f5f5e5",
+        "android_client_info": {
+          "package_name": "com.vorstellen.niladri.marketplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044239572465-ntm1ie87f4acjnho6021dogtchimfsi9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vorstellen.niladri.marketplace",
+            "certificate_hash": "1300d56485d59fd1b8210f5a33c7b8457fc8c3e0"
+          }
+        },
+        {
+          "client_id": "1044239572465-ch900vknegjeo8iql6tjd4ujfbet5c4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJARMFkq4npCQ1G7QHi-fWTC4At2qR9zw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044239572465-ch900vknegjeo8iql6tjd4ujfbet5c4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
