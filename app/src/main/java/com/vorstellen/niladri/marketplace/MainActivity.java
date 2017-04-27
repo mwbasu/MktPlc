@@ -39,6 +39,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        Firebase.setAndroidContext(this);
+
         googleSignInButton=(SignInButton)findViewById(R.id.googleLoginButton);
 
         firebase=new Firebase("https://marketplace-2f3df.firebaseio.com/");
